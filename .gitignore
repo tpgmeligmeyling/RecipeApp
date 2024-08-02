@@ -1,0 +1,13 @@
+Carthage/
+contents.xcworkspacedata
+IDEWorkspaceChecks.plist
+xcuserdata
+infer-out/
+build/
+compile_commands.json
+oclint_result.html
+DerivedData/
+*.swp
+tmp.xcconfig
+.DS_Store
+
